@@ -4,7 +4,6 @@ about: Create a report to help us improve
 title: ''
 labels: bug, help wanted
 assignees: What-Question-Mark
-
 ---
 
 **Describe the bug**
